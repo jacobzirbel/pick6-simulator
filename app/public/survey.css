@@ -1,0 +1,25 @@
+body {
+	max-width: 700px;
+}
+
+form {
+	display: flex;
+	flex-flow: column nowrap;
+}
+
+input {
+	width: 300px;
+}
+
+.radioButtons {
+	display: flex;
+	flex-flow: row nowrap;
+}
+.slider {
+	display: flex;
+	flex-flow: row nowrap;
+}
+
+.slider p {
+	font-size: x-small;
+}
